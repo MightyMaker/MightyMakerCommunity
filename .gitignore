@@ -1,0 +1,5 @@
+# VANILLA CACHE
+cache/
+
+# VANILLA CONFIGURATION
+conf/config.php
